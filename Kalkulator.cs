@@ -10,7 +10,7 @@ namespace Kalkulator
     {
         static void Main(string[] args)
         {
-            Console.Title = "Aplikasi Kalkulator";
+            Console.Title = "Kalkulatotr";
 
             Console.Write("Inputkan Nilai A : ");
             int a = int.Parse(Console.ReadLine()); //cara satu
